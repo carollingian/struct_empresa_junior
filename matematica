@@ -7,3 +7,6 @@ if a == 4:
 
 if b == 2:
     print("odeio meu país")
+#mudança feita pelo Gabriel
+if b == 3:
+    print("o gabriel é lindo demais")
